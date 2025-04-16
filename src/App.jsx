@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main className="container">
         <h1 className="text-center">Modern Compass</h1>
-        <p className="text-center">Welcome to our website!</p>
+        <p className="text-center">Your guide to professional growth and personal development</p>
         <div className="button-group">
           <button className="btn btn-primary">Get Started</button>
           <button className="btn btn-secondary">Learn More</button>
